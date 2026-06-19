@@ -1,0 +1,30 @@
+{
+  "title": "Advocacy AI Training Series",
+  "canonical": null,
+  "favicons": [
+    {
+      "rel": "icon",
+      "href": "https://events.helloeiko.com/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "rel": "icon",
+      "href": "https://events.helloeiko.com/favicon.ico",
+      "sizes": "any",
+      "type": null
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://events.helloeiko.com/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": null
+    }
+  ],
+  "metas": {
+    "utf-8": "utf-8",
+    "robots": "noindex, nofollow",
+    "viewport": "width=device-width, initial-scale=1"
+  },
+  "lang": "en"
+}
