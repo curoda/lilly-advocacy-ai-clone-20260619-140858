@@ -52,3 +52,4 @@ Loaded from Google Fonts exactly as the original (via `@import` in `globals.css`
 npm install
 npm run dev    # http://localhost:3000
 ```
+<!-- editor smoke test 2026-06-19 vault -->
